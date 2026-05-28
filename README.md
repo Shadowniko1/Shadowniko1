@@ -7,6 +7,8 @@ I'm Office Worker
 
 ●I'm not 16(((
 
+●I like catppuccin theme
+
 ●and I'm just coding with Python...
 
 ## U can contact me in:
