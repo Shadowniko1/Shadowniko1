@@ -1,9 +1,18 @@
 ## Hi there 
+I'm Office Worker (its just a user-name (I don't work at an office))
 
-im doing just something...
+and I'm just doing stuff with Python...
 
-i did now only the notes app and the website for it
+# My discord
+[here](https://discord.gg/V87jjGw6PD)
 
-and another [website](https://v0-personal-links-animation.vercel.app/)
+## My projects:
+●[Notes-app](https://github.com/Shadowniko1/Notes-app)
 
-# help...
+●["Terminal"](https://github.com/Shadowniko1/terminal)
+
+●[PixelMaker](https://github.com/Shadowniko1/PixelMaker)
+
+●[Links](https://v0-personal-links-animation.vercel.app/)
+
+αякυѕ said i should rewrite it...
