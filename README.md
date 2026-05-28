@@ -5,6 +5,5 @@ and I'm just doing stuff with Python...
 
 # U can contact me in:
 
-<img width="169" height="40" alt="image" src="https://github.com/user-attachments/assets/7f563300-8aa7-4bbe-aabe-e71caa2225ff" />
+[<img width="42" height="37" alt="image" src="https://github.com/user-attachments/assets/9d050781-0b51-4ccf-af3e-b39c6d4287b8" />](https://discord.gg/V87jjGw6PD)
 
-[MyGroup](https://discord.gg/V87jjGw6PD)
