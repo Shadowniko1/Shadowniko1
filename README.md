@@ -9,6 +9,8 @@ I'm Office Worker
 
 ●I like catppuccin theme
 
+●i think someone blocked me(
+
 ●and I'm just coding with Python...
 
 ## U can contact me in:
