@@ -9,7 +9,7 @@ I'm Office Worker
 
 ●and I'm just coding with Python...
 
-[Nature](https://shadowniko1.github.io/Nature/)
+●i like [Nature](https://shadowniko1.github.io/Nature/)
 
 ## U can contact me in:
 
