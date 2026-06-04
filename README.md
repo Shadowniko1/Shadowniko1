@@ -5,11 +5,7 @@ I'm Office Worker
 ●I'm don't working at office
 (Office Worker is just a username)
 
-●I'm not 16(((
-
 ●I like catppuccin theme
-
-●i think someone blocked me(((((
 
 ●and I'm just coding with Python...
 
