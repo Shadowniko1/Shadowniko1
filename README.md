@@ -1,4 +1,4 @@
-<img width="2000" height="1000" alt="nature" src="https://github.com/user-attachments/assets/e6c937b1-6e6e-47a1-b64a-5db7203e196b" />
+[<img width="2000" height="1000" alt="nature" src="https://github.com/user-attachments/assets/e6c937b1-6e6e-47a1-b64a-5db7203e196b" />](https://discord.gg/e4dtM2ZS)
 
 # Hi there 
 I'm Office Worker
