@@ -1,7 +1,7 @@
 [<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c2d21e06-4e26-49d9-afdf-dae8b9c43460" />](https://discord.gg/hJB9sxbfJk)
 
 # Hi there 
-I was wrkr (now Deatch Lord)
+I was wrkr (now Cat Lord)
 
 ### Fun fact's:
 ●I'm actually a lord..
