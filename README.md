@@ -1,4 +1,4 @@
-[<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c2d21e06-4e26-49d9-afdf-dae8b9c43460" />](https://discord.gg/hJB9sxbfJk)
+[<img width="2000" height="1000" alt="image" src="https://r2.guns.lol/f2e7b339-eb9b-4e87-b9a8-8c920a565d92.webp" />](https://discord.gg/hJB9sxbfJk)
 
 
 # Hi there 
@@ -16,7 +16,8 @@ I am nobody (i was Cat Lord)
 4. I actually like to talk with someone (better on discord)
 
 ## Dots
-● My windows-dot-files are [here](https://github.com/Shadowniko1/My-Files)
+My windows-dot-files are [`here`](https://github.com/Shadowniko1/My-Files)
+
 and maybe i will add arch dot-files later
 
 # Contact:
@@ -24,5 +25,5 @@ and maybe i will add arch dot-files later
 Discord: me: [`nobody`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
  cult: [`cat's Domain`](https://discord.gg/MDn7JWURAq)
 
-> ### bad fact:
+> ### bad facts:
 > im always **sad**, **depressed** and ***alone***..
