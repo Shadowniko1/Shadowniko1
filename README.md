@@ -21,8 +21,8 @@ and maybe i will add arch dot-files later
 
 ## Contact:
 
-[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/21321043-3487-4820-8b22-398085f1e001" />](https://discord.gg/hJB9sxbfJk)
-(click)
+Discord: [`nobody`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
+[`cat's Domain`](https://discord.gg/MDn7JWURAq)
 
 > ### bad fact:
 > im always **sad**, **depressed** and ***alone***..
