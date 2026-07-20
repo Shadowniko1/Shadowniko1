@@ -24,5 +24,5 @@ and maybe i will add arch dot-files later
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/21321043-3487-4820-8b22-398085f1e001" />](https://discord.gg/hJB9sxbfJk)
 (click)
 
-> ### ||bad fact:
-> im always sad, depressed and alone..||
+> ### bad fact:
+> im always **sad**, **depressed** and ***alone***..
