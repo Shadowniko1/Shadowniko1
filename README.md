@@ -19,10 +19,10 @@ I am nobody (i was Cat Lord)
 ● My windows-dot-files are [here](https://github.com/Shadowniko1/My-Files)
 and maybe i will add arch dot-files later
 
-## Contact:
+# Contact:
 
-Discord: [`nobody`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
-[`cat's Domain`](https://discord.gg/MDn7JWURAq)
+Discord: me: [`nobody`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
+ cult: [`cat's Domain`](https://discord.gg/MDn7JWURAq)
 
 > ### bad fact:
 > im always **sad**, **depressed** and ***alone***..
