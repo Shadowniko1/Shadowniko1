@@ -5,13 +5,13 @@
 
 I am nobody (i was Cat Lord)
 
-### Fun fact's:
+### *Fun* fact's:
 
-1. I use arch (btw)
+1. I use ***arch*** (btw) (and windows)
 
-2.I like catppuccin theme
+2.I like [`catppuccin`](catppuccin.com) (mocha) theme
 
-3. i like [Nature](https://shadowniko1.github.io/Nature/)
+3. i like [`Nature`](https://shadowniko1.github.io/Nature/)
 
 4. I actually like to talk with someone (better on discord)
 
