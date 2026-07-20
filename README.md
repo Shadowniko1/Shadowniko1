@@ -1,8 +1,7 @@
 [<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c2d21e06-4e26-49d9-afdf-dae8b9c43460" />](https://discord.gg/hJB9sxbfJk)
-
+<img with="200" height="201" alt="gif" scr="https://i.imageupload.app/b754885eaf4823b99846.gif">
 # Hi there 
 
-<img align="right" height="180" src="https://i.imageupload.app/b754885eaf4823b99846.gif)](https://imageupload.app/en/i/b754885eaf4823b99846" />
 I am nobody (i was Cat Lord)
 
 ### Fun fact's:
