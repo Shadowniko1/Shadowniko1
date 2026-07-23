@@ -21,10 +21,6 @@ My windows-dot-files are [`here`](https://github.com/Shadowniko1/My-Files)
 
 and maybe i will add arch dot-files later
 
-# Contact:
-
-Discord: me: [`nobody`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
- cult: [`cat's Domain`](https://discord.gg/MDn7JWURAq)
-
-> ### bad facts:
-> im always **sad**, **depressed** and ***alone***..
+## Discord: 
+1. me: [`Frost`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
+2. cult: [`cat's Domain`](https://discord.gg/MDn7JWURAq)
