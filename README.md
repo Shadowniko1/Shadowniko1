@@ -5,7 +5,7 @@
 # Hi there!
 
 I am frost, im using arch btw, i like the [`catppuccin`](catppuccin.com) mocha theme
-I like [`nature`](https://Shadowniko1.github.io/Nature/), to chat and take pictures. Actually i want to become a photographer 
+& [`nature`](https://Shadowniko1.github.io/Nature/), to chat and take pictures..
 
 ## Dots
 My windows-dot-files are [`here`](https://github.com/Shadowniko1/My-Files)
