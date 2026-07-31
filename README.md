@@ -23,4 +23,4 @@ and maybe i will add arch dot-files later
 
 ## Discord: 
 1. me: [`Frost`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
-2. cult: [`cat's Domain`](https://discord.gg/MDn7JWURAq)
+2. cult: [`cat's Domain`](https://discord.gg/CkXBCzCYK)
