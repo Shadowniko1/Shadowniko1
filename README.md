@@ -1,4 +1,4 @@
-[<img width="1000" height="500" alt="image" src="https://r2.guns.lol/f2e7b339-eb9b-4e87-b9a8-8c920a565d92.webp" />](https://discord.gg/hJB9sxbfJk)
+[<img width="700" height="500" alt="image" src="https://r2.guns.lol/f2e7b339-eb9b-4e87-b9a8-8c920a565d92.webp" />](https://github.com/Shadowniko1/Shadowniko1/blob/main/README.md#discord)
 
 [`guns.lol`](https://guns.lol/frost.cat)
 
