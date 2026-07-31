@@ -1,10 +1,10 @@
 [<img width="1000" height="500" alt="image" src="https://r2.guns.lol/f2e7b339-eb9b-4e87-b9a8-8c920a565d92.webp" />](https://discord.gg/hJB9sxbfJk)
 
-[`guns.lol`](https://guns.lol/cat_lord)
+[`guns.lol`](https://guns.lol/frost.cat)
 
 # Hi there 
 
-I am nobody (i was Cat Lord)
+I am frost  (i was Cat Lord)
 
 ### *Fun* fact's:
 
