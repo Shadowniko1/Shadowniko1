@@ -1,4 +1,4 @@
-[<img width="2000" height="1000" alt="image" src="https://r2.guns.lol/f2e7b339-eb9b-4e87-b9a8-8c920a565d92.webp" />](text: hello)
+<img width="2000" height="1000" alt="image" src="https://r2.guns.lol/f2e7b339-eb9b-4e87-b9a8-8c920a565d92.webp" />
 
 [`guns.lol`](https://guns.lol/frost.cat)
 
