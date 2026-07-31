@@ -1,4 +1,4 @@
-<img width="2000" height="1000" alt="image" src="https://cdn.discordapp.com/guilds/1388093659504967681/users/1396899010303754371/banners/956577ec521c65fb3d4d3ba54dcc13d5.webp" />
+<img size=4096 alt="image" src="https://cdn.discordapp.com/guilds/1388093659504967681/users/1396899010303754371/banners/956577ec521c65fb3d4d3ba54dcc13d5.webp?size=4096" />
 
 [`guns.lol`](https://guns.lol/frost.cat)
 
