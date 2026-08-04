@@ -17,3 +17,5 @@ and **maybe** i will add arch dot-files later
 2. cult: [`cat's Domain`](https://discord.gg/CkXBCzCYK), join please :3
 
 # Arch enjoyer btw
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eb910ce-761c-4560-8a62-0315f4182763" />
+
