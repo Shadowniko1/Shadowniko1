@@ -10,7 +10,7 @@ I am frost, im using arch btw, i like the [`catppuccin`](catppuccin.com) mocha t
 ## Dots
 My windows-dot-files are [`here`](https://github.com/Shadowniko1/My-Files)
 
-and **maybe** i will add arch dot-files later
+and [`arch-dots`](https://github.com/Shadowniko1/arch-dots)..
 
 ## Discord: 
 1. me: [`Frost`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
