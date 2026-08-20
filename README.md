@@ -14,7 +14,7 @@ and [`arch-dots`](https://github.com/Shadowniko1/arch-dots)..
 
 ## Discord: 
 1. me: [`Frost`](https://discord.com/channels/1388093659504967681/1480935611501252759/1528836285576253600)
-2. cult: [`cat's Domain`](https://discord.gg/CkXBCzCYK), join please :3
+2. cult: [`cat's Domain`](https://discord.gg/CkXBCzCYK), join please..
 
-# Arch enjoyer btw
+# Arch+caelestia enjoyer btw
 
