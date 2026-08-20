@@ -1,4 +1,4 @@
-<img size=4096 alt="image" src="https://github.com/Shadowniko1/Shadowniko1/blob/main/lighthouse.jpg" />
+[<img size=4096 alt="image" src="https://github.com/Shadowniko1/Shadowniko1/blob/main/lighthouse.jpg" />](https://github.com/Firefly-SL/wal-collection)
 
 [`guns.lol`](https://guns.lol/frost.cat)
 
