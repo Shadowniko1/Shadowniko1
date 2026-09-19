@@ -8,7 +8,7 @@ I am frost, im using arch btw, i like the [`catppuccin`](catppuccin.com) mocha t
 & [`nature`](https://Shadowniko1.github.io/Nature/), to chat and take pictures..
 
 ## pfps
-[Shadowniko1/pfps](https://gituhb.com/Shadowniko1/pfps)
+[Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
 
 ## bad thing
 - good guys become monsters one day..
