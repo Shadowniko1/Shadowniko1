@@ -14,4 +14,4 @@ I am frost, im using arch btw, i like the [`catppuccin`](catppuccin.com) mocha t
 - good guys become monsters one day..
 dont ask me abot that
 # ------ 
-you can support me by js [`joining`](https://discord.gg/zkuxzkaje) my small server
+you can support me by js [`joining`](https://discord.gg/P3pjc44mT) my server..
