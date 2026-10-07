@@ -4,7 +4,7 @@
 
 # Hi there!
 
-I am frost, im using arch btw, i like the [`catppuccin`](catppuccin.com) mocha theme
+I am shadow, im using cachy and windows, i like the [`catppuccin`](catppuccin.com) mocha theme
 & [`nature`](https://Shadowniko1.github.io/Nature/), to chat and take pictures..
 
 ## pfps
