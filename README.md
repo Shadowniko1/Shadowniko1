@@ -10,8 +10,5 @@ I am frost, im using arch btw, i like the [`catppuccin`](catppuccin.com) mocha t
 ## pfps
 [Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
 
-## bad thing
-- good guys become monsters one day..
-dont ask me abot that
 # ------ 
 you can support me by js [`joining`](https://discord.gg/P3pjc44mT) my server..
