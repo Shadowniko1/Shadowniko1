@@ -3,9 +3,35 @@
 [`guns.lol`](https://guns.lol/frost.cat)
 
 # Hi there!
+I'm shadow!
 
-I am shadow, im using cachy and windows, i like the [`catppuccin`](catppuccin.com) mocha theme
-& [`nature`](https://Shadowniko1.github.io/Nature/), to chat and take pictures..
+## Q&A
+<details>
+<summary>Who am i?</summary></summary>
+<table>
+	<tr>
+"a demon for someone, angles for others"
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>What am i doing?</summary></summary>
+<table>
+	<tr>
+im currently working on my pfps collection and meh life is hard but dont give up.
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Why "Shadow"?</summary></summary>
+<table>
+	<tr>
+becouse i like the darkness, im kinda full of secrets, have problems.. idk
+  </tr>
+</table>
+</details>
 
 ## pfps
 [Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
