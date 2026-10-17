@@ -1,6 +1,6 @@
-<img size=4096 alt="banner" src="https://github.com/Shadowniko1/pfps/blob/main/pages/%F0%9D%90%83%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%84%F0%9D%90%91_%E2%98%85%20-%20%E2%85%A2.jpg" />
+[<img size=4096 alt="banner" src="https://github.com/Shadowniko1/Shadowniko1/blob/main/banner.jpg" />](https://github.com/Shadowniko1/pfps)
 
-[`guns.lol`](https://guns.lol/frost.cat)
+[`guns.lol`](https://guns.lol/shadow.dead)
 
 # Hi there!
 I'm shadow!
