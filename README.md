@@ -28,7 +28,7 @@ im currently working on my pfps collection and meh life is hard but dont give up
 <summary>Why "Shadow"?</summary></summary>
 <table>
 	<tr>
-becouse i like the darkness, im kinda full of secrets, have problems.. idk
+because i like the darkness, im kinda full of secrets, have problems.. idk
   </tr>
 </table>
 </details>
@@ -37,13 +37,13 @@ becouse i like the darkness, im kinda full of secrets, have problems.. idk
 <summary>Do i have a server?</summary></summary>
 <table>
 	<tr>
-yeah, join please---> https://discord.gg/P3pjc44mT
+yeah, join please --> https://discord.gg/P3pjc44mT
   </tr>
 </table>
 </details>
 
-# pfps
+# My pfps collection
 [Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
 
-# ------ 
+# Support
 you can support me by js [`joining`](https://discord.gg/P3pjc44mT) my server..
