@@ -46,6 +46,7 @@ yeah, join please --> https://discord.gg/P3pjc44mT
 [Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
 
 # Support me
-![discord server](https://img.shields.io/badge/discord-black?style=flat&logo=discord&logoColor=darkblue&logoSize=20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FP3pjc44mT)
+![discord server](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=darkred&logoSize=20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FP3pjc44mT)
+
 
 
