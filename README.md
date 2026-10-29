@@ -1,7 +1,5 @@
 [<img size=4069 alt="banner" src="https://github.com/Shadowniko1/pfps/blob/main/storage/c82fdcbd9c1b4daac7dd3d76c4c91270.webp" />](https://github.com/Shadowniko1/pfps)
 
-[`guns.lol`](https://guns.lol/shadow.dead)
-
 # Hi there!
 I'm shadow!
 
@@ -46,7 +44,7 @@ yeah, join please --> https://discord.gg/P3pjc44mT
 [Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
 
 # Support me
-![discord server](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=darkred&logoSize=20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FP3pjc44mT)
+![discord server](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=darkred&logoSize=20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FP3pjc44mT) [`guns.lol`](https://guns.lol/shadow.dead)
 
 
 
