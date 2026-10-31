@@ -1,49 +1,14 @@
 [<img size=4069 alt="banner" src="https://github.com/Shadowniko1/pfps/blob/main/storage/c82fdcbd9c1b4daac7dd3d76c4c91270.webp" />](https://github.com/Shadowniko1/pfps)
 
-# Hi there!
-I'm shadow!
+# Hello yall..
 
-### Q&A
-<details>
-<summary>Who am i?</summary></summary>
-<table>
-	<tr>
-"a demon for someone, angles for others"
-  </tr>
-</table>
-</details>
--------------------------
-<details>
-<summary>What am i doing?</summary></summary>
-<table>
-	<tr>
-im currently working on my pfps collection and meh life is hard but dont give up.
-  </tr>
-</table>
-</details>
--------------------------
-<details>
-<summary>Why "Shadow"?</summary></summary>
-<table>
-	<tr>
-because i like the darkness, im kinda full of secrets, have problems.. idk
-  </tr>
-</table>
-</details>
------------------------------
-<details>
-<summary>Do i have a server?</summary></summary>
-<table>
-	<tr>
-yeah, join please --> https://discord.gg/P3pjc44mT
-  </tr>
-</table>
-</details>
+#
+welp.. idk.. 
 
 # My pfps collection
 [Shadowniko1/pfps](https://github.com/Shadowniko1/pfps)
 
-# Support me
+# Socials
 [`discord server`](https://discord.gg/htvkytAzGU) [`guns.lol`](https://guns.lol/shadow.dead)
 
 
