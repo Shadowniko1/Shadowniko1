@@ -9,4 +9,4 @@
 <p align="left">Just a guy with many secrets and problems.. (trying to hide that)<br>music sometimes saves me from the sadness.<br><br>I have a server, a bot and a pfps collection.. (u could say that im a dev)<br>welp the links are below..</p>
 
 ###
-[`discord server`](https://discord.gg/htvkytAzGU) [`guns.lol`](https://guns.lol/Shadow.dead)
+[`discord server`](https://discord.gg/htvkytAzGU) [`guns.lol`](https://guns.lol/Shadow.dead) [`bot`](https://discord.com/oauth2/authorize?client_id=1543351764420526221)
